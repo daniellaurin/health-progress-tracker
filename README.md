@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="/images/pictogram2.png" width="196" height="196" />
+</p>
+
+<div align="center">
+
 # 📊 Health Progress Tracker
 
-<p align="center">
-  <img src="/images/pictogram2.png" width="230" height="230" />
-</p>
+</div>
 
 ## 📉 Body Weight Tracker
 
