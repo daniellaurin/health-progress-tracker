@@ -1,7 +1,7 @@
 # 📊 Health Progress Tracker
 
 <p align="center">
-  <img src="/images/pictogram2.png" width="275" height="275" />
+  <img src="/images/pictogram2.png" width="230" height="230" />
 </p>
 
 ## 📉 Body Weight Tracker
