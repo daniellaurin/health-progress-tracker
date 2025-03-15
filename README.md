@@ -8,6 +8,25 @@
 
 </div>
 
+## 📋 Table of Contents
+
+- [📉 Body Weight Tracker](#-body-weight-tracker)
+  - [Milestone Goals](#milestone-goals)
+  - [BMI Calculator](#bmi-calculator)
+- [🍽️ Diet Philosophy](#️-diet-philosophy)
+- [⚖️ Weight Loss Philosophy](#️-weight-loss-philosophy)
+  - [Deficit Mentality](#deficit-mentality)
+  - [Implemented Diet Strategies](#implemented-diet-strategies)
+- [📍 Custom Gym Regiment](#-custom-gym-regiment)
+  - [Synopsis Training Philosophy](#synopsis-training-philosophy)
+  - [🔴 Day 1: CHEST / TRICEPS / SHOULDERS](#-day-1-chest--triceps--shoulders)
+  - [🟢 Day 2: LEGS / CALVES](#-day-2-legs--calves)
+  - [🔵 Day 3: BACK / BICEPS](#-day-3-back--biceps)
+  - [🔄 Day 4: REST](#-day-4-rest)
+- [🏆 Personal Best (PB)](#-personal-best-pb)
+- [📊 Strength Standards](#-strength-standards)
+- [Progress Notes](#progress-notes)
+
 ## 📉 Body Weight Tracker
 
 | Metric                               | Result  | Change  |
