@@ -1,4 +1,14 @@
-# 📊 Comprehensive Fitness Progress Tracker
+# 📊 Health Progress Tracker
+
+<div style="text-align:center;">
+
+![Walking Pictogram](/images/pictogram2.png)
+
+</div>
+
+<p align="center">
+  <img src="/images/pictogram2.png" width="200" height="200" />
+</p>
 
 ## 📉 Body Weight Tracker
 
