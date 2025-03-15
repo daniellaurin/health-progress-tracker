@@ -27,9 +27,11 @@
 | Current          |      258.6lb       | 38.7 |
 | Goal             |       170lb        | 24.9 |
 
-<p align="center">
-  ![BMI Gauge](/images/bmi-gauge-1.png)
-</p>
+<div style="text-align:center;">
+
+![BMI Gauge](/images/bmi-gauge-1.png)
+
+</div>
 
 ## 🍽️ Diet Philosophy
 
@@ -68,9 +70,11 @@ As this is a more aggressive approach to dieting, there are several challenges. 
 - **Volume eating:** To increase satiety, considering food volume as a factor (vegetables tend to be more filling as they occupy more volume in your stomach)
 - **Satiety index:** Useful metric showing some foods are more filling than others (e.g., feeling fuller eating a steak than consuming the same calories in almonds)
 
-<p align="center">
-    ![Satiety Index](/images/satiety.png)
-</p>
+<div style="text-align:center;">
+
+![Satiety Index](/images/satiety.png)
+
+</div>
 
 ### Implemented Diet Strategies
 
