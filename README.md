@@ -27,6 +27,8 @@
 | Current          |      258.6lb       | 38.7 |
 | Goal             |       170lb        | 24.9 |
 
+![Satiety Index](/images/satiety.png)
+
 ## 🍽️ Diet Philosophy
 
 This is a personalized diet that I'm still currently modifying. Current cutting progress is intermediate to slow as my caloric restriction is inconsistent. I no longer thoroughly calorie track with a strict -500 deficit as I found it too hard to sustain, almost funneling into a diet that requires meal prepping every meal, which doesn't fit my lifestyle. I no longer track macro and micronutrients in detail.
@@ -39,6 +41,21 @@ My previous macro split when tracking was approximately:
 
 This made more of my diet calories come from fat sources, similar to a ketogenic approach (obviously never reaching ketosis). Currently, my macros are likely different with more focus on carbohydrate sources. These macros reflected dietary preferences rather than the most optimal nutritional ratio.
 
+## ⚖️ Weight Loss Philosophy
+
+I apply the _1% body weight rule_, where I should on weekly average lose 1% of bodyweight as an intermediate to aggressive weight loss goal. This approach is more effective for higher BMI cutting goals as greater weight fluctuations occur at higher body fat ratios.
+
+For example:
+
+- 275lb × 0.01 = 2.75lb per week
+- 1lb of fat = 3500kcal
+- 2.75lb × 3500kcal = 9625kcal
+- 9625kcal ÷ 7 days = -1,375kcal daily deficit
+
+This is a much more aggressive diet compared to the standard -500kcal cut. This rough calorie deficit accounts for water weight held by glycogen (the main reason for rapid initial weight loss). The 1% rule factors in both water weight and potential muscle atrophy.
+
+As this is a more aggressive approach to dieting, there are several challenges. Hunger pains and going to bed hungry are somewhat common occurrences. Additionally, some atrophy of muscle and strength is experienced due to the limited potential for recomposition.
+
 ### Deficit Mentality
 
 - **Little to no calorie tracking:** Likely why progress is slower than preferred
@@ -48,6 +65,8 @@ This made more of my diet calories come from fat sources, similar to a ketogenic
 - **No drinking calories:** Avoids juices, full-sugar sodas, and alcohol (social drinking in moderation is acceptable and factored into caloric intake)
 - **Volume eating:** To increase satiety, considering food volume as a factor (vegetables tend to be more filling as they occupy more volume in your stomach)
 - **Satiety index:** Useful metric showing some foods are more filling than others (e.g., feeling fuller eating a steak than consuming the same calories in almonds)
+
+![BMI Gauge](/images/bmi-gauge-1.png)
 
 ### Implemented Diet Strategies
 
@@ -106,21 +125,6 @@ Over the years I've created a custom gym regiment with my favorite exercises wit
 ### 🔄 Day 4: REST
 
 ---
-
-## ⚖️ Weight Loss Philosophy
-
-I apply the _1% body weight rule_, where I should on weekly average lose 1% of bodyweight as an intermediate to aggressive weight loss goal. This approach is more effective for higher BMI cutting goals as greater weight fluctuations occur at higher body fat ratios.
-
-For example:
-
-- 275lb × 0.01 = 2.75lb per week
-- 1lb of fat = 3500kcal
-- 2.75lb × 3500kcal = 9625kcal
-- 9625kcal ÷ 7 days = -1,375kcal daily deficit
-
-This is a much more aggressive diet compared to the standard -500kcal cut. This rough calorie deficit accounts for water weight held by glycogen (the main reason for rapid initial weight loss). The 1% rule factors in both water weight and potential muscle atrophy.
-
-As this is a more aggressive approach to dieting, there are several challenges. Hunger pains and going to bed hungry are somewhat common occurrences. Additionally, some atrophy of muscle and strength is experienced due to the limited potential for recomposition.
 
 ## 🏆 Personal Best (PB)
 
