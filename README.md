@@ -36,6 +36,12 @@
 | Highest Recorded Weight (since 2021) |  303.5  | -44.9lb |
 | All Time Weight                      | 276.9lb |   N/A   |
 
+<div style="text-align:center;">
+
+![BMI Gauge](/images/cronometer.png)
+
+</div>
+
 ### Milestone Goals
 
 | Goal                               | Weight |
@@ -51,7 +57,7 @@
 | Metric           | Weight Correlation | BMI  |
 | :--------------- | :----------------: | :--: |
 | Highest Recorded |      303.5lb       | 44.7 |
-| Current          |      258.6lb       | 38.7 |
+| Current          |      257.6lb       | 38.7 |
 | Goal             |       170lb        | 24.9 |
 
 <div style="text-align:center;">
@@ -66,8 +72,8 @@ This is a personalized diet that I'm still currently modifying. Current cutting 
 
 My previous macro split when tracking was approximately:
 
-- 30% protein
-- 40% fat
+- 25% protein
+- 45% fat
 - 30% carbs
 
 This made more of my diet calories come from fat sources, similar to a ketogenic approach (obviously never reaching ketosis). Currently, my macros are likely different with more focus on carbohydrate sources. These macros reflected dietary preferences rather than the most optimal nutritional ratio.
@@ -143,7 +149,7 @@ Over the years I've created a custom gym regiment with my favorite exercises wit
 | **Romanian Deadlifts** |  3   |   10-12    | _Secondary compound movement_       |
 | Empty Bar Squat        |  2   |     20     | _Warm-up_                           |
 | **Heavy Squat**        |  3   |    5-7     | _Primary compound movement_         |
-| ~~Hip Thrust~~         |  -   |   10-12    | _No longer performed_               |
+| ~~Hip Thrust~~         |  2   |   10-12    | _No longer performed_               |
 | ~~Slide Squat~~        |  2   |   10-12    | _Corrective && No longer performed_ |
 | ~~Calf Raises~~        |  2   | To failure | _No longer performed_               |
 
