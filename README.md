@@ -93,10 +93,11 @@ I apply the _1% body weight rule_, where I should on weekly average lose 1% of b
 
 For example:
 
-- 275lb × 0.01 = 2.75lb per week
+- 250lb × 0.01 = 2.5lb weight loss per week
 - 1lb of fat = 3500kcal
-- 2.75lb × 3500kcal = 9625kcal
-- 9625kcal ÷ 7 days = -1,375kcal daily deficit
+- 2.5lb × 3500kcal = 8750kcal weekly caloric budget
+- 8750 ÷ 7 days = -1250kcal daily caloric deficit
+- BMR - 1250kcal = daily calorie budget
 
 This is a much more aggressive diet compared to the standard -500kcal cut. This rough calorie deficit accounts for water weight held by glycogen (the main reason for rapid initial weight loss). The 1% rule factors in both water weight and potential muscle atrophy.
 
