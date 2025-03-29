@@ -29,12 +29,13 @@
 
 ## 📉 Body Weight Tracker
 
-| Metric                               | Result  | Change  |
-| :----------------------------------- | :-----: | :-----: |
-| Previous Month Average Weight        | 258.6lb | -8.3lb  |
-| 3-Month Average                      | 261.9lb | -11.7lb |
-| Highest Recorded Weight (since 2021) |  303.5  | -44.9lb |
-| All Time Weight                      | 276.9lb |   N/A   |
+| Metric                                  | Result  | Change  |
+| :-------------------------------------- | :-----: | :-----: |
+| Highest Recorded Weight (hw 2021)       |  303.5  | -53.5lb |
+| All Time Weight Average (2021-2025)     | 276.9lb |   N/A   |
+| Starting Weight (sw dec 2024)           |  272.2  | -22.2lb |
+| 3-Month Average Weight (jan-mar)        | 261.9lb | -11.7lb |
+| Previous Month Average Weight (cw 2025) | 258.6lb | -8.3lb  |
 
 <div style="text-align:center;">
 
@@ -44,21 +45,29 @@
 
 ### Milestone Goals
 
-| Goal                               | Weight |
-| :--------------------------------- | :----: |
-| Previous Lowest Weight (2021-2024) | 258lb  |
-| Current Sub-goal                   | 250lb  |
+| Goal                               | Weight | Completion Date | Completion |
+| :--------------------------------- | :----: | --------------- | ---------- |
+| Summer Average Weight              | 270lb  | 7/1/2025        | ✔️         |
+| Previous Lowest Weight (2021-2024) | 258lb  | 12/2/2025       | ✔️         |
+| Sub-goal Weight I                  | 250lb  | 29/3/2025       | ✔️         |
+| Sub-goal II                        | 245lb  | N/A             |            |
+| Sub-goal III                       | 235lb  | N/A             |            |
+| Goal Weight (gw)                   | 200lb  | N/A             |            |
+| Ultimate Goal Weight (ugw)         | 170lb  | N/A             |            |
 
 ### BMI Calculator
 
 - Height: 5'9" (175cm)
 - BMI: Weight(kg) ÷ Height(m)² = Weight(lb) × 0.453592 ÷ (Height(cm) × 0.01)²
 
-| Metric           | Weight Correlation | BMI  |
-| :--------------- | :----------------: | :--: |
-| Highest Recorded |      303.5lb       | 44.7 |
-| Current          |      257.6lb       | 38.7 |
-| Goal             |       170lb        | 24.9 |
+| Metric | Weight Correlation | BMI  | SW Dif |
+| :----- | :----------------: | :--: | :----: |
+| HW     |      303.5lb       | 44.7 |  +4.5  |
+| SW     |      272.2lb       | 40.2 |   ∅    |
+| CW     |       258.6        | 38.2 |   -2   |
+| SGW    |       245lb        | 36.2 |   -4   |
+| GW     |       200lb        | 29.5 | -10.7  |
+| UGW    |       170lb        | 24.9 | -15.3  |
 
 <div style="text-align:center;">
 
